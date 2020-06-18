@@ -4,6 +4,7 @@
   font-style: normal;
   font-weight: 700;
   src: local('Lato Italic'), local('Lato-Italic'), url("../fonts/SB_BODY_LATO_ITALIC.woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
 /* SB BODY Lato Bold Italic */
@@ -12,6 +13,7 @@
   font-style: normal;
   font-weight: 700;
   src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url("../fonts/SB_BODY_LATO_BOLD_ITALIC.woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
 /* SB BODY Lato Regular */
@@ -20,6 +22,7 @@
   font-style: normal;
   font-weight: 700;
   src: local('Lato Regular'), local('Lato-Regular'), url("../fonts/SB_BODY_LATO_REGULAR.woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
 /* SB BODY Lato Bold */
@@ -28,4 +31,23 @@
   font-style: normal;
   font-weight: 700;
   src: local('Lato Bold'), local('Lato-Bold'), url("../fonts/SB_BODY_LATO_BOLD.woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* SB Heading Montserrat Regular */
+@font-face {
+  font-family: 'SB Heading';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat Regular'), local('Montserrat-Regular'), url("../fonts/SB_HEADING_MONTSERRAT_REGULAR.woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* SB Heading Montserrat Bold */
+@font-face {
+  font-family: 'SB Heading';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat Bold'), local('Montserrat-Bold'), url("../fonts/SB_HEADING_MONTSERRAT_BOLD.woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
