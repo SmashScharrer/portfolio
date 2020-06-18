@@ -1,0 +1,31 @@
+/* SB BODY Lato Italic */
+@font-face {
+  font-family: 'SB Body';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Italic'), local('Lato-Italic'), url("../fonts/SB_BODY_LATO_ITALIC.woff2");
+}
+
+/* SB BODY Lato Bold Italic */
+@font-face {
+  font-family: 'SB Body';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url("../fonts/SB_BODY_LATO_BOLD_ITALIC.woff2");
+}
+
+/* SB BODY Lato Regular */
+@font-face {
+  font-family: 'SB Body';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Regular'), local('Lato-Regular'), url("../fonts/SB_BODY_LATO_REGULAR.woff2");
+}
+
+/* SB BODY Lato Bold */
+@font-face {
+  font-family: 'SB Body';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url("../fonts/SB_BODY_LATO_BOLD.woff2");
+}
